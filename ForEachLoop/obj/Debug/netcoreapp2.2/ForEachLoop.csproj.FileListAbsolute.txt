@@ -1,0 +1,11 @@
+E:\Code\LearningC#\ForEachLoop\bin\Debug\netcoreapp2.2\ForEachLoop.deps.json
+E:\Code\LearningC#\ForEachLoop\bin\Debug\netcoreapp2.2\ForEachLoop.runtimeconfig.json
+E:\Code\LearningC#\ForEachLoop\bin\Debug\netcoreapp2.2\ForEachLoop.runtimeconfig.dev.json
+E:\Code\LearningC#\ForEachLoop\bin\Debug\netcoreapp2.2\ForEachLoop.dll
+E:\Code\LearningC#\ForEachLoop\bin\Debug\netcoreapp2.2\ForEachLoop.pdb
+E:\Code\LearningC#\ForEachLoop\obj\Debug\netcoreapp2.2\ForEachLoop.csprojAssemblyReference.cache
+E:\Code\LearningC#\ForEachLoop\obj\Debug\netcoreapp2.2\ForEachLoop.csproj.CoreCompileInputs.cache
+E:\Code\LearningC#\ForEachLoop\obj\Debug\netcoreapp2.2\ForEachLoop.AssemblyInfoInputs.cache
+E:\Code\LearningC#\ForEachLoop\obj\Debug\netcoreapp2.2\ForEachLoop.AssemblyInfo.cs
+E:\Code\LearningC#\ForEachLoop\obj\Debug\netcoreapp2.2\ForEachLoop.dll
+E:\Code\LearningC#\ForEachLoop\obj\Debug\netcoreapp2.2\ForEachLoop.pdb
